@@ -6,3 +6,4 @@ posterizing.
 For detailed examples, check out the keynote attatched. 
 
 
+![Alt text](/colorSegmentation.pdf?raw=true "Delaunay Visualization")
